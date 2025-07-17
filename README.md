@@ -22,3 +22,12 @@ Permite registrar, editar y eliminar eventos como reuniones o cumpleaños. Los d
 - CSS3
 - JavaScript (ES6)
 - Bootstrap 5
+
+## Finalidad
+
+La finalidad de este proyecto es demostrar la aplicación práctica de los contenidos abordados en la Evaluación 3 de Programación Front End, mediante el desarrollo de una aplicación web funcional que permite gestionar eventos personales utilizando HTML, CSS, JavaScript y Bootstrap, con almacenamiento local en el navegador y diseño adaptable a distintos dispositivos.
+
+Johan Manriquez
+Víctor Mondaca
+
+Programación Front End - Analista Programador - Inacap Talca
