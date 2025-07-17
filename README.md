@@ -4,7 +4,7 @@ Aplicación web desarrollada con HTML, CSS, JavaScript y Bootstrap para la terce
 
 ## Descripción
 
-Permite registrar, editar y eliminar eventos como reuniones o cumpleaños. Los datos se almacenan en el navegador utilizando `LocalStorage` y se muestran ordenados por fecha. El diseño es responsive gracias a Bootstrap.
+Permite registrar, editar y eliminar eventos como reuniones o cumpleaños. Los datos se almacenan en el navegador utilizando LocalStorage y se muestran ordenados por fecha. El diseño es responsive gracias a Bootstrap.
 
 ## Funcionalidades
 
